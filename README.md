@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A Dynamic, personable, and focused cognitive science, computer science and psychology student. Interested in human-computer interaction where I can explore and enhance my IT knowledge and skills such as user research, software development, programming logic, etc.
+  <samp>A Dynamic, personable, and focused cognitive science, computer science and psychology student at the University of Toronto. Interested in human-computer interaction where I can explore and enhance my IT knowledge and skills such as user research, software development, programming logic, etc.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=biocity93" alt="https://github.com/biocity93" />
