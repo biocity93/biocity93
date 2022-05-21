@@ -13,6 +13,10 @@
   <samp>A Dynamic, personable, and focused cognitive science, computer science and psychology student at the University of Toronto. Interested in human-computer interaction where I can explore and enhance my IT knowledge and skills such as user research, software development, programming logic, etc.
   </samp>
   <br> <br>
+  <p align="center">
+  <samp>Currently learning Data Analysis with Kaggle and PHP on a side project.
+  </samp>
+  <br> <br>
   <img src="https://komarev.com/ghpvc/?username=biocity93" alt="https://github.com/biocity93" />
 </p>
 
