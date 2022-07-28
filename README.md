@@ -14,7 +14,7 @@
   </samp>
   <br> <br>
   <p align="center">
-  <samp>Currently learning Data Analysis with Kaggle and PHP on a side project.
+  <samp>Currently working a full-stack web development project.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=biocity93" alt="https://github.com/biocity93" />
