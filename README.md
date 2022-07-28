@@ -14,7 +14,7 @@
   </samp>
   <br> <br>
   <p align="center">
-  <samp>Currently working a full-stack web development project.
+  <samp>Currently working on a full-stack web development project.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=biocity93" alt="https://github.com/biocity93" />
