@@ -6,7 +6,7 @@
 <!-- <div align="center">
   <img src="" alt="header"/>
 </div> -->
-<p align="center"> (Looking to Intern)</p>
+<p align="center"> (Application Developer Intern @ CIBC)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
