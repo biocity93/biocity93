@@ -6,7 +6,7 @@
 <!-- <div align="center">
   <img src="" alt="header"/>
 </div> -->
-<p align="center"> (Application Developer Co-op at CIBC)</p>
+<p align="center"> (Full-Stack Developer at UofTMHA.ca)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
